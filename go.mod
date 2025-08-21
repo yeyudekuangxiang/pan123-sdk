@@ -1,3 +1,3 @@
-module github.com/123pan-3rd/go-sdk/v2
+module github.com/yeyudekuangxiang/pan123-sdk
 
 go 1.18
